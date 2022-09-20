@@ -1,0 +1,390 @@
+
+2022-09-10/09:58:08		successful start of file validation
+2022-09-10/09:58:08		extracting values from schema file
+2022-09-10/09:58:08		extracting custom defined regex
+2022-09-10/09:58:08		validating file name
+2022-09-10/09:58:08		raw data validation completed successfully 
+2022-09-10/09:58:08		starting data transformation.
+2022-09-10/09:58:08		data transformation complete.
+2022-09-10/09:58:08		creating table and database on the basis of given schema
+2022-09-10/09:58:08		table created successfully.
+2022-09-10/09:58:08		starting inserting data into table.
+2022-09-10/09:58:08		table insertion complete.
+2022-09-10/09:58:08		deleting good data folder
+2022-09-10/09:58:08		good data folder deleted successfully.
+2022-09-10/09:58:08		successful end of validation.
+2022-09-10/09:58:08		extracting csv file from table
+2022-09-10/09:58:08		successfully extracted.
+2022-09-10/10:31:11		successful start of file validation
+2022-09-10/10:31:11		extracting values from schema file
+2022-09-10/10:31:11		extracting custom defined regex
+2022-09-10/10:31:11		validating file name
+2022-09-10/10:31:11		file name validated
+2022-09-10/10:31:11		validating number of columns.
+2022-09-10/10:31:11		number of columns are as per schema.
+2022-09-10/10:31:11		raw data validation completed successfully 
+2022-09-10/10:31:11		starting data transformation.
+2022-09-10/10:31:11		data transformation complete.
+2022-09-10/10:31:11		creating table and database on the basis of given schema
+2022-09-10/10:31:11		table created successfully.
+2022-09-10/10:31:11		starting inserting data into table.
+2022-09-10/10:31:11		table insertion complete.
+2022-09-10/10:31:11		deleting good data folder
+2022-09-10/10:31:11		good data folder deleted successfully.
+2022-09-10/10:31:11		successful end of validation.
+2022-09-10/10:31:11		extracting csv file from table
+2022-09-10/10:31:11		successfully extracted.
+2022-09-10/13:43:17		successful start of file validation
+2022-09-10/13:43:17		extracting values from schema file
+2022-09-10/13:43:17		extracting custom defined regex
+2022-09-10/13:43:17		validating file name
+2022-09-10/13:43:17		file name validated
+2022-09-10/13:43:17		validating number of columns.
+2022-09-10/13:43:18		number of columns are as per schema.
+2022-09-10/13:43:18		raw data validation completed successfully 
+2022-09-10/13:43:18		starting data transformation.
+2022-09-10/13:43:18		data transformation complete.
+2022-09-10/13:43:18		creating table and database on the basis of given schema
+2022-09-10/13:43:18		table created successfully.
+2022-09-10/13:43:18		starting inserting data into table.
+2022-09-10/13:43:18		table insertion complete.
+2022-09-10/13:43:18		deleting good data folder
+2022-09-10/13:43:18		good data folder deleted successfully.
+2022-09-10/13:43:18		successful end of validation.
+2022-09-10/13:43:18		extracting csv file from table
+2022-09-10/13:43:18		successfully extracted.
+2022-09-11/12:28:19		successful start of file validation
+2022-09-11/12:28:19		extracting values from schema file
+2022-09-11/12:28:19		extracting custom defined regex
+2022-09-11/12:28:19		validating file name
+2022-09-11/12:28:19		file name validated
+2022-09-11/12:28:19		validating number of columns.
+2022-09-11/12:28:20		number of columns are as per schema.
+2022-09-11/12:28:20		raw data validation completed successfully 
+2022-09-11/12:28:20		starting data transformation.
+2022-09-11/12:28:20		data transformation complete.
+2022-09-11/12:28:20		creating table and database on the basis of given schema
+2022-09-11/12:28:20		table created successfully.
+2022-09-11/12:28:20		starting inserting data into table.
+2022-09-11/12:28:20		table insertion complete.
+2022-09-11/12:28:20		deleting good data folder
+2022-09-11/12:28:20		good data folder deleted successfully.
+2022-09-11/12:28:20		successful end of validation.
+2022-09-11/12:28:20		extracting csv file from table
+2022-09-11/12:28:20		successfully extracted.
+2022-09-11/12:38:51		successful start of file validation
+2022-09-11/12:38:51		extracting values from schema file
+2022-09-11/12:38:51		extracting custom defined regex
+2022-09-11/12:38:51		validating file name
+2022-09-11/12:38:52		file name validated
+2022-09-11/12:38:52		validating number of columns.
+2022-09-11/12:38:52		number of columns are as per schema.
+2022-09-11/12:38:52		raw data validation completed successfully 
+2022-09-11/12:38:52		starting data transformation.
+2022-09-11/12:38:52		data transformation complete.
+2022-09-11/12:38:52		creating table and database on the basis of given schema
+2022-09-11/12:38:52		table created successfully.
+2022-09-11/12:38:52		starting inserting data into table.
+2022-09-11/12:38:52		table insertion complete.
+2022-09-11/12:38:52		deleting good data folder
+2022-09-11/12:38:52		good data folder deleted successfully.
+2022-09-11/12:38:52		successful end of validation.
+2022-09-11/12:38:52		extracting csv file from table
+2022-09-11/12:38:52		successfully extracted.
+2022-09-11/17:22:59		successful start of file validation
+2022-09-11/17:22:59		extracting values from schema file
+2022-09-11/17:22:59		extracting custom defined regex
+2022-09-11/17:22:59		validating file name
+2022-09-11/17:22:59		file name validated
+2022-09-11/17:22:59		validating number of columns.
+2022-09-11/17:22:59		number of columns are as per schema.
+2022-09-11/17:22:59		raw data validation completed successfully 
+2022-09-11/17:22:59		starting data transformation.
+2022-09-11/17:22:59		data transformation complete.
+2022-09-11/17:22:59		creating table and database on the basis of given schema
+2022-09-11/17:22:59		table created successfully.
+2022-09-11/17:22:59		starting inserting data into table.
+2022-09-11/17:22:59		table insertion complete.
+2022-09-11/17:22:59		deleting good data folder
+2022-09-11/17:22:59		good data folder deleted successfully.
+2022-09-11/17:22:59		successful end of validation.
+2022-09-11/17:22:59		extracting csv file from table
+2022-09-11/17:22:59		successfully extracted.
+2022-09-12/21:17:04		successful start of file validation
+2022-09-12/21:17:04		extracting values from schema file
+2022-09-12/21:17:04		extracting custom defined regex
+2022-09-12/21:17:04		validating file name
+2022-09-12/21:17:04		file name validated
+2022-09-12/21:17:04		validating number of columns.
+2022-09-12/21:17:04		number of columns are as per schema.
+2022-09-12/21:17:04		raw data validation completed successfully 
+2022-09-12/21:17:04		starting data transformation.
+2022-09-12/21:17:04		data transformation complete.
+2022-09-12/21:17:04		creating table and database on the basis of given schema
+2022-09-12/21:17:04		table created successfully.
+2022-09-12/21:17:04		starting inserting data into table.
+2022-09-12/21:17:26		table insertion complete.
+2022-09-12/21:17:26		deleting good data folder
+2022-09-12/21:17:26		good data folder deleted successfully.
+2022-09-12/21:17:26		successful end of validation.
+2022-09-12/21:17:26		extracting csv file from table
+2022-09-12/21:17:26		successfully extracted.
+2022-09-13/15:21:09		successful start of file validation
+2022-09-13/15:21:09		extracting values from schema file
+2022-09-13/15:24:52		successful start of file validation
+2022-09-13/15:24:52		extracting values from schema file
+2022-09-13/15:29:51		successful start of file validation
+2022-09-13/15:29:51		extracting values from schema file
+2022-09-13/15:34:14		successful start of file validation
+2022-09-13/15:34:14		extracting values from schema file
+2022-09-13/15:39:17		successful start of file validation
+2022-09-13/15:39:17		extracting values from schema file
+2022-09-13/15:41:36		successful start of file validation
+2022-09-13/15:41:36		extracting values from schema file
+2022-09-13/15:42:08		successful start of file validation
+2022-09-13/15:42:08		extracting values from schema file
+2022-09-13/15:42:08		extracting custom defined regex
+2022-09-13/15:42:08		validating file name
+2022-09-13/15:42:08		file name validated
+2022-09-13/15:42:08		validating number of columns.
+2022-09-13/15:42:08		number of columns are as per schema.
+2022-09-13/15:42:08		raw data validation completed successfully 
+2022-09-13/15:42:08		starting data transformation.
+2022-09-13/15:42:08		data transformation complete.
+2022-09-13/15:42:08		creating table and database on the basis of given schema
+2022-09-13/15:42:09		table created successfully.
+2022-09-13/15:42:09		starting inserting data into table.
+2022-09-13/15:42:27		table insertion complete.
+2022-09-13/15:42:27		deleting good data folder
+2022-09-13/15:42:27		good data folder deleted successfully.
+2022-09-13/15:42:27		successful end of validation.
+2022-09-13/15:42:27		extracting csv file from table
+2022-09-13/15:42:27		successfully extracted.
+2022-09-13/21:32:28		successful start of file validation
+2022-09-13/21:32:28		extracting values from schema file
+2022-09-13/21:33:23		successful start of file validation
+2022-09-13/21:33:23		extracting values from schema file
+2022-09-13/21:33:23		extracting custom defined regex
+2022-09-13/21:33:23		validating file name
+2022-09-13/21:33:23		file name validated
+2022-09-13/21:33:23		validating number of columns.
+2022-09-13/21:33:23		number of columns are as per schema.
+2022-09-13/21:33:23		raw data validation completed successfully 
+2022-09-13/21:33:23		starting data transformation.
+2022-09-13/21:33:23		data transformation complete.
+2022-09-13/21:33:23		creating table and database on the basis of given schema
+2022-09-13/21:33:23		table created successfully.
+2022-09-13/21:33:23		starting inserting data into table.
+2022-09-13/21:33:45		table insertion complete.
+2022-09-13/21:33:45		deleting good data folder
+2022-09-13/21:33:45		good data folder deleted successfully.
+2022-09-13/21:33:45		successful end of validation.
+2022-09-13/21:33:45		extracting csv file from table
+2022-09-13/21:33:45		successfully extracted.
+2022-09-13/21:37:20		successful start of file validation
+2022-09-13/21:37:20		extracting values from schema file
+2022-09-13/21:37:20		extracting custom defined regex
+2022-09-13/21:37:20		validating file name
+2022-09-13/21:40:55		successful start of file validation
+2022-09-13/21:40:55		extracting values from schema file
+2022-09-13/21:40:55		extracting custom defined regex
+2022-09-13/21:40:55		validating file name
+2022-09-13/21:40:55		file name validated
+2022-09-13/21:40:55		validating number of columns.
+2022-09-13/21:40:55		number of columns are as per schema.
+2022-09-13/21:40:55		raw data validation completed successfully 
+2022-09-13/21:40:55		starting data transformation.
+2022-09-13/21:40:55		data transformation complete.
+2022-09-13/21:40:55		creating table and database on the basis of given schema
+2022-09-13/21:40:55		table created successfully.
+2022-09-13/21:40:55		starting inserting data into table.
+2022-09-13/21:44:50		table insertion complete.
+2022-09-13/21:44:50		deleting good data folder
+2022-09-13/21:44:50		good data folder deleted successfully.
+2022-09-13/21:44:50		successful end of validation.
+2022-09-13/21:44:50		extracting csv file from table
+2022-09-13/21:44:51		successfully extracted.
+2022-09-14/07:15:51		successful start of file validation
+2022-09-14/07:15:51		extracting values from schema file
+2022-09-14/07:15:51		extracting custom defined regex
+2022-09-14/07:15:51		validating file name
+2022-09-14/07:15:51		file name validated
+2022-09-14/07:15:51		validating number of columns.
+2022-09-14/07:15:52		number of columns are as per schema.
+2022-09-14/07:15:52		raw data validation completed successfully 
+2022-09-14/07:15:52		starting data transformation.
+2022-09-14/07:15:52		data transformation complete.
+2022-09-14/07:15:52		creating table and database on the basis of given schema
+2022-09-14/07:15:52		table created successfully.
+2022-09-14/07:15:52		starting inserting data into table.
+2022-09-14/07:19:19		table insertion complete.
+2022-09-14/07:19:19		deleting good data folder
+2022-09-14/07:19:19		good data folder deleted successfully.
+2022-09-14/07:19:19		successful end of validation.
+2022-09-14/07:19:19		extracting csv file from table
+2022-09-14/07:19:20		successfully extracted.
+2022-09-14/07:23:08		successful start of file validation
+2022-09-14/07:23:08		extracting values from schema file
+2022-09-14/07:23:08		extracting custom defined regex
+2022-09-14/07:23:08		validating file name
+2022-09-14/07:23:08		file name validated
+2022-09-14/07:23:08		validating number of columns.
+2022-09-14/07:23:09		number of columns are as per schema.
+2022-09-14/07:23:09		raw data validation completed successfully 
+2022-09-14/07:23:09		starting data transformation.
+2022-09-14/07:23:09		data transformation complete.
+2022-09-14/07:23:09		creating table and database on the basis of given schema
+2022-09-14/07:23:09		table created successfully.
+2022-09-14/07:23:09		starting inserting data into table.
+2022-09-14/07:26:41		table insertion complete.
+2022-09-14/07:26:41		deleting good data folder
+2022-09-14/07:26:41		good data folder deleted successfully.
+2022-09-14/07:26:41		successful end of validation.
+2022-09-14/07:26:41		extracting csv file from table
+2022-09-14/07:26:41		successfully extracted.
+2022-09-14/07:53:07		successful start of file validation
+2022-09-14/07:53:07		extracting values from schema file
+2022-09-14/07:53:07		extracting custom defined regex
+2022-09-14/07:53:07		validating file name
+2022-09-14/07:53:07		file name validated
+2022-09-14/07:53:07		validating number of columns.
+2022-09-14/07:53:08		number of columns are as per schema.
+2022-09-14/07:53:08		raw data validation completed successfully 
+2022-09-14/07:53:08		starting data transformation.
+2022-09-14/07:53:08		data transformation complete.
+2022-09-14/07:53:08		creating table and database on the basis of given schema
+2022-09-14/07:53:08		table created successfully.
+2022-09-14/07:53:08		starting inserting data into table.
+2022-09-14/07:56:42		table insertion complete.
+2022-09-14/07:56:42		deleting good data folder
+2022-09-14/07:56:42		good data folder deleted successfully.
+2022-09-14/07:56:42		successful end of validation.
+2022-09-14/07:56:42		extracting csv file from table
+2022-09-14/07:56:42		successfully extracted.
+2022-09-14/08:37:20		successful start of file validation
+2022-09-14/08:37:20		extracting values from schema file
+2022-09-14/08:37:20		extracting custom defined regex
+2022-09-14/08:37:20		validating file name
+2022-09-14/08:37:20		file name validated
+2022-09-14/08:37:20		validating number of columns.
+2022-09-14/08:37:21		number of columns are as per schema.
+2022-09-14/08:37:21		raw data validation completed successfully 
+2022-09-14/08:37:21		starting data transformation.
+2022-09-14/08:37:21		data transformation complete.
+2022-09-14/08:37:21		creating table and database on the basis of given schema
+2022-09-14/08:37:21		table created successfully.
+2022-09-14/08:37:21		starting inserting data into table.
+2022-09-14/08:41:29		successful start of file validation
+2022-09-14/08:41:29		extracting values from schema file
+2022-09-14/08:41:29		extracting custom defined regex
+2022-09-14/08:41:29		validating file name
+2022-09-14/08:41:29		file name validated
+2022-09-14/08:41:29		validating number of columns.
+2022-09-14/08:41:30		number of columns are as per schema.
+2022-09-14/08:41:30		raw data validation completed successfully 
+2022-09-14/08:41:30		starting data transformation.
+2022-09-14/08:41:30		data transformation complete.
+2022-09-14/08:41:30		creating table and database on the basis of given schema
+2022-09-14/08:41:30		table created successfully.
+2022-09-14/08:41:30		starting inserting data into table.
+2022-09-14/08:45:17		table insertion complete.
+2022-09-14/08:45:17		deleting good data folder
+2022-09-14/08:45:17		good data folder deleted successfully.
+2022-09-14/08:45:17		successful end of validation.
+2022-09-14/08:45:17		extracting csv file from table
+2022-09-14/08:45:18		successfully extracted.
+2022-09-14/09:09:51		successful start of file validation
+2022-09-14/09:09:51		extracting values from schema file
+2022-09-14/09:09:51		extracting custom defined regex
+2022-09-14/09:09:51		validating file name
+2022-09-14/09:09:51		file name validated
+2022-09-14/09:09:51		validating number of columns.
+2022-09-14/09:09:52		number of columns are as per schema.
+2022-09-14/09:09:52		raw data validation completed successfully 
+2022-09-14/09:09:52		starting data transformation.
+2022-09-14/09:09:53		data transformation complete.
+2022-09-14/09:09:53		creating table and database on the basis of given schema
+2022-09-14/09:09:53		table created successfully.
+2022-09-14/09:09:53		starting inserting data into table.
+2022-09-14/09:13:41		table insertion complete.
+2022-09-14/09:13:41		deleting good data folder
+2022-09-14/09:13:41		good data folder deleted successfully.
+2022-09-14/09:13:41		successful end of validation.
+2022-09-14/09:13:41		extracting csv file from table
+2022-09-14/09:13:42		successfully extracted.
+2022-09-14/09:46:29		successful start of file validation
+2022-09-14/09:46:29		extracting values from schema file
+2022-09-14/09:46:29		extracting custom defined regex
+2022-09-14/09:46:29		validating file name
+2022-09-14/09:46:30		file name validated
+2022-09-14/09:46:30		validating number of columns.
+2022-09-14/09:46:30		number of columns are as per schema.
+2022-09-14/09:46:30		raw data validation completed successfully 
+2022-09-14/09:46:30		starting data transformation.
+2022-09-14/09:46:31		data transformation complete.
+2022-09-14/09:46:31		creating table and database on the basis of given schema
+2022-09-14/09:46:31		table created successfully.
+2022-09-14/09:46:31		starting inserting data into table.
+2022-09-14/09:50:15		table insertion complete.
+2022-09-14/09:50:15		deleting good data folder
+2022-09-14/09:50:15		good data folder deleted successfully.
+2022-09-14/09:50:15		successful end of validation.
+2022-09-14/09:50:15		extracting csv file from table
+2022-09-14/09:50:16		successfully extracted.
+2022-09-14/10:16:35		successful start of file validation
+2022-09-14/10:16:35		extracting values from schema file
+2022-09-14/10:16:35		extracting custom defined regex
+2022-09-14/10:16:35		validating file name
+2022-09-14/10:16:35		file name validated
+2022-09-14/10:16:35		validating number of columns.
+2022-09-14/10:16:35		number of columns are as per schema.
+2022-09-14/10:16:35		raw data validation completed successfully 
+2022-09-14/10:16:35		starting data transformation.
+2022-09-14/10:16:36		data transformation complete.
+2022-09-14/10:16:36		creating table and database on the basis of given schema
+2022-09-14/10:16:36		table created successfully.
+2022-09-14/10:16:36		starting inserting data into table.
+2022-09-14/10:20:30		table insertion complete.
+2022-09-14/10:20:30		deleting good data folder
+2022-09-14/10:20:30		good data folder deleted successfully.
+2022-09-14/10:20:30		successful end of validation.
+2022-09-14/10:20:30		extracting csv file from table
+2022-09-14/10:20:30		successfully extracted.
+2022-09-14/10:23:55		successful start of file validation
+2022-09-14/10:23:55		extracting values from schema file
+2022-09-14/10:23:55		extracting custom defined regex
+2022-09-14/10:23:55		validating file name
+2022-09-14/10:23:56		file name validated
+2022-09-14/10:23:56		validating number of columns.
+2022-09-14/10:23:56		number of columns are as per schema.
+2022-09-14/10:23:56		raw data validation completed successfully 
+2022-09-14/10:23:56		starting data transformation.
+2022-09-14/10:23:57		data transformation complete.
+2022-09-14/10:23:57		creating table and database on the basis of given schema
+2022-09-14/10:23:57		table created successfully.
+2022-09-14/10:23:57		starting inserting data into table.
+2022-09-14/10:27:37		table insertion complete.
+2022-09-14/10:27:37		deleting good data folder
+2022-09-14/10:27:37		good data folder deleted successfully.
+2022-09-14/10:27:37		successful end of validation.
+2022-09-14/10:27:37		extracting csv file from table
+2022-09-14/10:27:38		successfully extracted.
+2022-09-14/20:21:24		successful start of file validation
+2022-09-14/20:21:24		extracting values from schema file
+2022-09-14/20:21:24		extracting custom defined regex
+2022-09-14/20:21:24		validating file name
+2022-09-14/20:21:25		file name validated
+2022-09-14/20:21:25		validating number of columns.
+2022-09-14/20:21:25		number of columns are as per schema.
+2022-09-14/20:21:25		raw data validation completed successfully 
+2022-09-14/20:21:25		starting data transformation.
+2022-09-14/20:21:26		data transformation complete.
+2022-09-14/20:21:26		creating table and database on the basis of given schema
+2022-09-14/20:21:26		table created successfully.
+2022-09-14/20:21:26		starting inserting data into table.
+2022-09-14/20:24:36		table insertion complete.
+2022-09-14/20:24:36		deleting good data folder
+2022-09-14/20:24:36		good data folder deleted successfully.
+2022-09-14/20:24:36		successful end of validation.
+2022-09-14/20:24:36		extracting csv file from table
+2022-09-14/20:24:36		successfully extracted.
